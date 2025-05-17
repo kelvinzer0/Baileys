@@ -1,7 +1,9 @@
 # 📚 Hi users! 
 ## 💫 Baca ini 
-👋🏻 **Hii saya Putramods, saya mengambangkan baileys ini karena gabut saja, Saya tidak ingin mengklaim bahwa ini adalah hasil usaha saya, ini adalah baileys ori dari @KagenouReal
- 🔓 **Jika ingin mengunjungi kreator silahkan lihat https;//github/KagenouReal/baileys
+###👋🏻 Hii saya Putramods, saya mengambangkan baileys ini karena gabut saja, Saya tidak ingin mengklaim bahwa ini adalah hasil usaha saya, ini adalah baileys ori dari @KagenouReal
+
+###🔓 Jika ingin mengunjungi kreator silahkan lihat https;//github/KagenouReal/baileys
+--
 
 # 🚀 Baileys WhatsApp API 
 
