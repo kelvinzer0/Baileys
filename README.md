@@ -21,13 +21,13 @@ Repositori ini dikembangkan dan dikelola oleh **kagenou** bersama para kontribut
 Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖  
 
 ---
-## ✍🏻 Whats New?
-💣 **Support** semua function, Bug ataupun yang lainnya!
+## ✍🏻 Apa yang saya tambahkan?
+💣 **Support** semua function Bug ataupun yang lainnya!
 💣 **Support** Button old
 💣 **Support** Pairing code custom
 
 ---
-### ❓ How To Custom The Pairing 
+### ❓ How To Custom The Pairing code
 ```sh
 sock.requestPairingCode(phoneNumber.trim(), "NamaKamu");
 ```
