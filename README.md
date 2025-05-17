@@ -1,9 +1,9 @@
 # 📚 Hi users! 
 ## 💫 Baca ini 
-###👋🏻 Hii saya Putramods, saya mengambangkan baileys ini karena gabut saja, Saya tidak ingin mengklaim bahwa ini adalah hasil usaha saya, ini adalah baileys ori dari @KagenouReal
-
-###🔓 Jika ingin mengunjungi kreator silahkan lihat https;//github/KagenouReal/baileys
+👋🏻 Hii saya Putramods, saya Mengambangkan Baileys ini karena gabut saja, Saya tidak ingin mengklaim bahwa ini adalah hasil usaha saya, ini adalah baileys ori dari @KagenouReal
 --
+🔓 Jika ingin mengunjungi kreator silahkan lihat https;//github/KagenouReal/baileys
+---
 
 # 🚀 Baileys WhatsApp API 
 
@@ -21,7 +21,19 @@ Repositori ini dikembangkan dan dikelola oleh **kagenou** bersama para kontribut
 Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖  
 
 ---
+## ✍🏻 Whats New?
+💣 **Support** semua function, Bug ataupun yang lainnya!
+💣 **Support** Button old
+💣 **Support** Pairing code custom
 
+---
+### ❓ How To Custom The Pairing 
+```sh
+sock.requestPairingCode(phoneNumber.trim(), "NamaKamu");
+```
+**Note** 📑
+Bebas kata apapun asalkan berjumlah 8 digit, supaya bisa tetap masuk ke Whatsapp bot😁
+---
 ## ✨ Fitur Utama
 
 ✅ **Autentikasi tanpa QR** menggunakan session authentication  
