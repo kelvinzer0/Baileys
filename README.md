@@ -21,19 +21,23 @@ Repositori ini dikembangkan dan dikelola oleh **kagenou** bersama para kontribut
 Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖  
 
 ---
+
 ## ✍🏻 Apa yang saya tambahkan?
 💣 **Support** semua function Bug ataupun yang lainnya!
 💣 **Support** Button old
 💣 **Support** Pairing code custom
 
 ---
+
 ### ❓ How To Custom The Pairing code
 ```sh
 sock.requestPairingCode(phoneNumber.trim(), "NamaKamu");
 ```
 **Note** 📑
 Bebas kata apapun asalkan berjumlah 8 digit, supaya bisa tetap masuk ke Whatsapp bot😁
+
 ---
+
 ## ✨ Fitur Utama
 
 ✅ **Autentikasi tanpa QR** menggunakan session authentication  
