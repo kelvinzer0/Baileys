@@ -22,9 +22,11 @@ Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖
 
 ---
 # ✍🏻 Apa yang saya tambahkan?
-💣 Support Semua Function bug dan yang lainnya
-💣 Support Button tua
-💣 Support Pairing Code Custom
+```
+ 🔓 Support Pairing code dan bisa custom Pairing code
+ 🔓 Support All Function
+ 🔓 Mempercepat respons bot ( Gabut )
+```
 
 ---
 
