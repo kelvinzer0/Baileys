@@ -23,9 +23,9 @@ Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖
 ---
 
 ## ✍🏻 Apa yang saya tambahkan?
-💣 **Support** semua function Bug ataupun yang lainnya!
-💣 **Support** Button old
-💣 **Support** Pairing code custom
+💣 **Support** Semua Function bug dan yang lainnya
+💣 **Support** Button tua
+💣 **Support** Pairing Code Custom
 
 ---
 
