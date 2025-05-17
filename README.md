@@ -22,13 +22,6 @@ Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖
 
 ---
 
-## ✍🏻 Apa yang saya tambahkan?
-💣 **Support** Semua Function bug dan yang lainnya
-💣 **Support** Button tua
-💣 **Support** Pairing Code Custom
-
----
-
 ### ❓ How To Custom The Pairing code
 ```sh
 sock.requestPairingCode(phoneNumber.trim(), "NamaKamu");
@@ -46,6 +39,13 @@ Bebas kata apapun asalkan berjumlah 8 digit, supaya bisa tetap masuk ke Whatsapp
 ✅ **Mengelola grup** (buat grup, tambahkan/kick anggota, atur deskripsi, dll.)  
 ✅ **Integrasi event** seperti masuk/keluar grup, pesan diterima, pesan terbaca  
 ✅ **Mendukung TypeScript** untuk pengembangan yang lebih aman  
+
+---
+
+## ✍🏻 Apa yang saya tambahkan?
+💣 **Support** Semua Function bug dan yang lainnya
+💣 **Support** Button tua
+💣 **Support** Pairing Code Custom
 
 ---
 
